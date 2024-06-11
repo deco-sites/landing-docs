@@ -1,0 +1,13 @@
+{
+  "name": "My New Page",
+  "path": "/new-page",
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Hero.tsx"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
