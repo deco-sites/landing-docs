@@ -4,6 +4,12 @@
   "sections": [
     {
       "__resolveType": "Preview /sections/Hero.tsx"
+    },
+    {
+      "__resolveType": "Preview site/sections/Post.tsx"
+    },
+    {
+      "__resolveType": "Groovy Vibes"
     }
   ],
   "seo": {

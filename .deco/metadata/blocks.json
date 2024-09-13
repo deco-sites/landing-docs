@@ -106,5 +106,27 @@
   "/.deco/blocks/My%20Block.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/BlogPosts.tsx"
+  },
+  "/.deco/blocks/Preview%20site%2Fsections%2FPost.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Post.tsx"
+  },
+  "/.deco/blocks/pages-Counter%2520Page-864525.json": {
+    "name": "Counter Page",
+    "path": "/counter",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20site%2Fsections%2FCounter.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Counter.tsx"
+  },
+  "/.deco/blocks/Preview%20site%2Fsections%2FDogFacts.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/DogFacts.tsx"
+  },
+  "/.deco/blocks/Preview%20website%2Floaders%2Fasset.ts.json": {
+    "blockType": "loaders",
+    "__resolveType": "website/loaders/asset.ts"
   }
 }

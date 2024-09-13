@@ -1,0 +1,13 @@
+{
+  "name": "Counter Page",
+  "path": "/counter",
+  "sections": [
+    {
+      "__resolveType": "Preview site/sections/Counter.tsx"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

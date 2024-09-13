@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/sections/DogFacts.tsx",
+  "title": "Title",
+  "numberOfFacts": 2,
+  "dogFacts": {
+    "__resolveType": "site/loaders/dogFacts.ts",
+    "numberOfFacts": 3
+  }
+}
